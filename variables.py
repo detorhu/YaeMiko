@@ -10,8 +10,8 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 6433468  # Get this value from my.telegram.org/apps
-    API_HASH = "7895dfd061f656367ccab30032"
+    API_ID = 28733143  # Get this value from my.telegram.org/apps
+    API_HASH = "f7bbd29cf8ba336237046dbecfeab519"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
@@ -31,7 +31,7 @@ class Config(object):
     DB_NAME = "MikoDB"
 
     # Bot token
-    TOKEN = "2323839365:AAFgfdadqawlfdsM7slOa33eM_ghop"  # Get bot token from @BotFather on Telegram
+    TOKEN = "8312882882:AAGJR4EhsOcqZI9w5cfTqGAV9_oVZpsTYsU"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
     OWNER_ID = 7066124462
