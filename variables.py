@@ -14,7 +14,7 @@ class Config(object):
     API_HASH = "f7bbd29cf8ba336237046dbecfeab519"
 
     # Database configuration (PostgreSQL)
-    DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
+    DATABASE_URL = "postgresql://postgres:hCBSVxkbSbQQKQQgWrOVJQzDxyptYevI@nozomi.proxy.rlwy.net:51342/railway"
 
     # Event logs chat ID and message dump chat ID
     EVENT_LOGS = -1003814371676
@@ -24,7 +24,7 @@ class Config(object):
     MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "DetorLab"
+    SUPPORT_CHAT = "AdvanceBot_support"
     SUPPORT_ID = -1003814371676
 
     # Database name
