@@ -21,7 +21,7 @@ class Config(object):
     MESSAGE_DUMP = -1003814371676
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://neonman242:neonman.123@game0.sqfzcd4.mongodb.net/MikoDB?retryWrites=true&w=majority"
 
     # Support chat and support ID
     SUPPORT_CHAT = "AdvanceBot_support"
